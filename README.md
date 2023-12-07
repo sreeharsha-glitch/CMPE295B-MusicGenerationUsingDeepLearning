@@ -17,7 +17,7 @@
 
 The 2023 IEEE International Conference on Big Data (IEEE BigData 2023) took place on December 12-18, 2023 at “Hilton Sorrento”, Sorrento, Italy. Strategically positioned at the intersection of research on the various big data research topics, IEEE BigData 2023 is uniquely situated to highlight technologies and insights that materialize the Big Data vision of the future. Since 2013, IEEE BigData 2023 has successfully brought together leading researchers and developers from the big data communities. Through the publication, presentation, and discussion of high-quality applied and theoretical research findings, IEEE BigData 2023 attendees shape the future by identifying challenging problems facing the creation of advanced big data applications and systems, and by providing insightful solution approaches for those problems.
 
-- Listing of our publication can be found [here](https://www.intellisky.org/workshops/workshop_AIMG2023.html)
+Listing of our publication can be found [here](https://www.intellisky.org/workshops/workshop_AIMG2023.html)
 
 
 ## Project Architecture
