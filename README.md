@@ -15,7 +15,7 @@
 
 ### Published in
 
-The 2023 IEEE International Conference on Big Data (IEEE BigData 2023) took place on December 12-18, 2023 at “Hilton Sorrento”, Sorrento, Italy. Strategically positioned at the intersection of research on the various big data research topics, IEEE BigData 2023 is uniquely situated to highlight technologies and insights that materialize the Big Data vision of the future. Since 2013, IEEE BigData 2023 has successfully brought together leading researchers and developers from the big data communities. Through the publication, presentation, and discussion of high-quality applied and theoretical research findings, IEEE BigData 2023 attendees shape the future by identifying challenging problems facing the creation of advanced big data applications and systems, and by providing insightful solution approaches for those problems.
+The 2023 IEEE International Conference on Big Data (IEEE BigData 2023) taking place on December 12-18, 2023 at “Hilton Sorrento”, Sorrento, Italy. Strategically positioned at the intersection of research on the various big data research topics, IEEE BigData 2023 is uniquely situated to highlight technologies and insights that materialize the Big Data vision of the future. Since 2013, IEEE BigData 2023 has successfully brought together leading researchers and developers from the big data communities. Through the publication, presentation, and discussion of high-quality applied and theoretical research findings, IEEE BigData 2023 attendees shape the future by identifying challenging problems facing the creation of advanced big data applications and systems, and by providing insightful solution approaches for those problems.
 
 Listing of our publication can be found [here](https://www.intellisky.org/workshops/workshop_AIMG2023.html)
 
@@ -58,7 +58,7 @@ Music is fabricated so deeply in our well-being, and it has a great impact on im
 - Please add other dependencies by following the above command syntax
 - Once the dependencies are in place run the following command to launch the application
 
-``` streamlit run app1.py ```
+``` streamlit run app.py ```
 
 - Open the link provided in the terminal in any browser
 - Provide input music file in "MIDI" format
